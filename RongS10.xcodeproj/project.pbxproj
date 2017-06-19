@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		29A30D3A1EF75BD3003FDAA2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A30D391EF75BD3003FDAA2 /* main.swift */; };
+		29A30D411EF75C75003FDAA2 /* RongAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29A30D401EF75C75003FDAA2 /* RongAPI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		29A30D361EF75BD3003FDAA2 /* RongS10 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RongS10; sourceTree = BUILT_PRODUCTS_DIR; };
 		29A30D391EF75BD3003FDAA2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		29A30D401EF75C75003FDAA2 /* RongAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RongAPI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				29A30D391EF75BD3003FDAA2 /* main.swift */,
+				29A30D401EF75C75003FDAA2 /* RongAPI.swift */,
 			);
 			path = RongS10;
 			sourceTree = "<group>";
@@ -121,6 +124,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29A30D411EF75C75003FDAA2 /* RongAPI.swift in Sources */,
 				29A30D3A1EF75BD3003FDAA2 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
